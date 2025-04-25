@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 26 00:02:53 2025
-
-@author: Lenovo
-"""
-
 #Import required libraries
 import pandas as pd
 
